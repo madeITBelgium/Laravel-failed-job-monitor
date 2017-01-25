@@ -1,10 +1,7 @@
 # PHP VAT Library
-[![Build Status](https://travis-ci.org/MadeITBelgium/laravel-failed-job-monitor.svg?branch=master)](https://travis-ci.org/MadeITBelgium/laravel-failed-job-monitor)
-[![Coverage Status](https://coveralls.io/repos/github/MadeITBelgium/laravel-failed-job-monitor/badge.svg?branch=master)](https://coveralls.io/github/MadeITBelgium/laravel-failed-job-monitor?branch=master)
-[![Latest Stable Version](https://poser.pugx.org/MadeITBelgium/laravel-failed-job-monitor/v/stable.svg)](https://packagist.org/packages/MadeITBelgium/laravel-failed-job-monitor)
-[![Latest Unstable Version](https://poser.pugx.org/MadeITBelgium/laravel-failed-job-monitor/v/unstable.svg)](https://packagist.org/packages/MadeITBelgium/laravel-failed-job-monitor)
-[![Total Downloads](https://poser.pugx.org/MadeITBelgium/laravel-failed-job-monitor/d/total.svg)](https://packagist.org/packages/MadeITBelgium/laravel-failed-job-monitor)
-[![License](https://poser.pugx.org/MadeITBelgium/laravel-failed-job-monitor/license.svg)](https://packagist.org/packages/MadeITBelgium/laravel-failed-job-monitor)
+[![Build Status](https://travis-ci.org/madeITBelgium/Laravel-failed-job-monitor.svg?branch=master)](https://travis-ci.org/madeITBelgium/Laravel-failed-job-monitor)
+[![Coverage Status](https://coveralls.io/repos/github/madeITBelgium/Laravel-failed-job-monitor/badge.svg?branch=master)](https://coveralls.io/github/madeITBelgium/Laravel-failed-job-monitor?branch=master)
+
 
 #Installation
 
