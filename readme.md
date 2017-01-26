@@ -1,4 +1,4 @@
-# PHP VAT Library
+# Laravel failed job monitor
 [![Build Status](https://travis-ci.org/madeITBelgium/Laravel-failed-job-monitor.svg?branch=master)](https://travis-ci.org/madeITBelgium/Laravel-failed-job-monitor)
 [![Coverage Status](https://coveralls.io/repos/github/madeITBelgium/Laravel-failed-job-monitor/badge.svg?branch=master)](https://coveralls.io/github/madeITBelgium/Laravel-failed-job-monitor?branch=master)
 
@@ -12,7 +12,7 @@ Require this package in your `composer.json` and update composer.
 ```
 
 ```php
-composer require spatie/laravel-failed-job-monitor
+composer require madeitbelgium/laravel-failed-job-monitor
 ```
 
 After updating composer, add the ServiceProvider to the providers array in `config/app.php`
